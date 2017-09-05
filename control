@@ -1,0 +1,9 @@
+Package: com.joemerlino.protubefucker
+Name: ProtubeFucker
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Defeats Protube license check
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
